@@ -1,4 +1,4 @@
-const url = 'https://books-api7.p.rapidapi.com/books';
+const url = 'https://books-api7.p.rapidapi.com/books/34';
 const options = {
 	method: 'GET',
 	headers: {
