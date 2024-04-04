@@ -1,0 +1,10 @@
+.stars {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+
+	span {
+		font-size: 1.4rem;
+		display: inline-block;
+	}
+}
