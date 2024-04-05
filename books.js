@@ -18,6 +18,7 @@ export const booksData = [
 		url: 'https://www.amazon.in/Sense-Sensibility-Penguin-Classics-Austen/dp/0141439661/ref=sr_1_3?crid=2HVW537O79PTA&keywords=Sense+and+Sensibility&qid=1697352083&sprefix=sense+and+sensibility%2Caps%2C254&sr=8-3',
 		plot: "Abeloved classic, Austen's first published novel explores the question of what drives your life: your heart or your head? The Dashwood sisters, Elinor and Marianne, are as different as sisters can be. Serious Elinor lives by reason and thoughtfulness while her younger sister, Marianne, only follows her passions. But in questions of love, they learn neither the heart nor head alone will lead them to happiness. Filled with romance, Austen's brilliant wit, and rich characterization, this is a celebration of sisterly love and the need for family--no matter how different they might be from us.",
 		rating: 4.3,
+		price: 212,
 	},
 	{
 		author: {
@@ -38,6 +39,7 @@ export const booksData = [
 		},
 		cover: 'https://images.thenile.io/r1000/9780141439518.jpg',
 		url: 'https://www.amazon.in/Pride-Prejudice-Penguin-Classics-Austen/dp/0141439513/ref=sr_1_6?crid=18J1DS2F3G0R&keywords=Pride+and+Prejudice&qid=1697353631&sprefix=pride+and+prejudice%2Caps%2C212&sr=8-6',
+		price: 248,
 	},
 	{
 		author: {
@@ -59,6 +61,7 @@ export const booksData = [
 		cover:
 			'https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781439169438_9781439169438_hr.jpg',
 		url: 'https://www.amazon.in/Mansfield-Park-Jane-Austen/dp/8172345232/ref=sr_1_1?crid=1TWPOKVS2OXZ&keywords=Mansfield+Park&qid=1697355117&sprefix=mansfield+park%2Caps%2C236&sr=8-1',
+		price: 195,
 	},
 	{
 		author: {
@@ -79,6 +82,7 @@ export const booksData = [
 		},
 		cover: 'https://i.thenile.io/r1000/9781514758397.jpg?r=60a26e5e6f5ef',
 		url: 'https://www.amazon.in/EMMA-FingerPrint-Jane-Austen/dp/8172345305/ref=sr_1_1_sspa?crid=TDRQXQPSADPD&keywords=Emma+book&qid=1697356145&sprefix=emma+book%2Caps%2C204&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1',
+		price: 219,
 	},
 	{
 		author: {
@@ -100,6 +104,7 @@ export const booksData = [
 		cover:
 			'https://i.pinimg.com/originals/7b/b6/6a/7bb66a03364eddc5811d71af8900f5c9.jpg',
 		url: 'https://www.amazon.in/Northanger-Abbey-Jane-Austen/dp/9350330768/ref=sr_1_3?crid=3C73Q3Q9Y4PD6&keywords=Northanger+Abbey&qid=1697356307&sprefix=northanger+abbey%2Caps%2C242&sr=8-3',
+		price: 152,
 	},
 	{
 		author: {
@@ -121,6 +126,7 @@ export const booksData = [
 		cover:
 			'https://imgv2-1-f.scribdassets.com/img/word_document/251891585/original/7e43197740/1615480324?v=1',
 		url: 'https://www.amazon.in/Persuasion-Jane-Austen/dp/8175993790/ref=sr_1_4?crid=2FC0QG286C2WO&keywords=Persuasion&qid=1697356518&sprefix=persuasion%2Caps%2C217&sr=8-4',
+		price: 129,
 	},
 	{
 		author: {
@@ -142,6 +148,7 @@ export const booksData = [
 		cover:
 			'https://s2982.pcdn.co/wp-content/uploads/2016/09/Penguin-Classics.jpg',
 		url: 'https://www.amazon.in/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143/ref=sr_1_3?crid=1LXTKURDPEZGW&keywords=Jane+Eyre&qid=1697357960&sprefix=jane+eyre%2Caps%2C202&sr=8-3',
+		price: 299,
 	},
 	{
 		author: {
@@ -168,6 +175,7 @@ export const booksData = [
 		},
 		cover: 'https://cdn2.penguin.com.au/covers/400/9780141966762.jpg',
 		url: 'https://www.amazon.in/Complete-Poems-Penguin-Classics/dp/0140423524/ref=sr_1_1?crid=1ESDY0GQ6NQAF&keywords=The+Complete+Poems+Emily+Bront%C3%AB&qid=1697358155&sprefix=the+complete+poems+emily+bront%C3%AB%2Caps%2C198&sr=8-1',
+		price: 545,
 	},
 	{
 		author: {
@@ -188,6 +196,7 @@ export const booksData = [
 		},
 		cover: 'https://d.gr-assets.com/books/1423758040l/24874353.jpg',
 		url: 'https://www.amazon.in/Night-Darkening-Penguin-Little-Classics/dp/0141398477/ref=sr_1_1?crid=1VIGI15GU445J&keywords=The+Night+is+Darkening+Round+Me&qid=1697358327&sprefix=the+night+is+darkening+round+me%2Caps%2C193&sr=8-1',
+		price: 150,
 	},
 	{
 		author: {
@@ -214,6 +223,7 @@ export const booksData = [
 		},
 		cover: 'https://images3.penguinrandomhouse.com/cover/9780593466360',
 		url: 'https://www.amazon.in/Murder-Roger-Ackroyd-Agatha-Christie/dp/1684226562/ref=sr_1_1_sspa?keywords=The+Murder+of+Roger+Ackroyd&qid=1697365341&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1',
+		price: 870,
 	},
 	{
 		author: {
@@ -235,6 +245,7 @@ export const booksData = [
 		cover:
 			'https://www.thevintagenews.com/wp-content/uploads/2017/09/9780062838629-424x640.jpg',
 		url: 'https://www.amazon.in/Murder-Orient-Express-Poirot-Christie/dp/0007527500/ref=sr_1_2?crid=7INKTRGNNRZC&keywords=Murder+on+the+Orient+Express&qid=1697366221&sprefix=murder+on+the+orient+express%2Caps%2C235&sr=8-2',
+		price: 281,
 	},
 	{
 		author: {
@@ -257,6 +268,7 @@ export const booksData = [
 			'https://i5.walmartimages.com/asr/56f890e5-b099-460d-b735-f895a92d51ac_1.cc424c493a8888fd7ae0a71e7f607ec7.jpeg',
 		url: 'https://www.amazon.in/David-Copperfield-Charles-Dickens/dp/8175994282/ref=sr_1_1_sspa?crid=24G90QDITOB9P&keywords=david+copperfield+by+charles+dickens&qid=1698680273&sprefix=david+copp%2Caps%2C250&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1',
 		__v: 0,
+		price: 369,
 	},
 	{
 		author: {
@@ -286,6 +298,7 @@ export const booksData = [
 			'https://imgv2-1-f.scribdassets.com/img/word_document/251891517/original/41c439d8f6/1585577396?v=1',
 		url: 'https://www.amazon.in/Great-Expectations-Charles-Dickens/dp/8175993782/ref=sr_1_3?crid=2OCJMSL2W8SO&keywords=Great+expectations+by+charles+dickens&qid=1698721104&sprefix=great+expectations+by+charles+dickens%2Caps%2C288&sr=8-3',
 		__v: 0,
+		price: 239,
 	},
 	{
 		author: {
@@ -316,6 +329,7 @@ export const booksData = [
 			'https://onlinereadfreenovel.com/i2/1707052207/8328_a_tale_of_two_cities.jpg',
 		url: 'https://www.amazon.in/Tale-Two-Cities-Charles-Dickens/dp/8171674070/ref=sr_1_1_sspa?crid=231HTZ2B6MR32&keywords=A+Tale+of+Two+Cities+by+charles+dickens&nsdOptOutParam=true&qid=1698722668&sprefix=a+tale+of+two+cities+by+charles+dickens%2Caps%2C577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1',
 		__v: 0,
+		price: 250,
 	},
 	{
 		author: {
@@ -347,6 +361,7 @@ export const booksData = [
 			'https://i.pinimg.com/originals/3a/c8/68/3ac8687bc0f5595d49fc0c624a3c659d.jpg',
 		url: 'https://www.amazon.in/Bleak-Wordsworth-Classics-Charles-Dickens/dp/1853260827/ref=sr_1_3?crid=2TYCJ7HQLXU9V&keywords=bleak+house+by+charles+dickens&nsdOptOutParam=true&qid=1698723211&sprefix=Bleak++by+charles+dickens%2Caps%2C284&sr=8-3',
 		__v: 0,
+		price: 249,
 	},
 	{
 		author: {
@@ -375,6 +390,7 @@ export const booksData = [
 		cover: 'https://d2snwnmzyr8jue.cloudfront.net/opr_9781504061605_270.jpeg',
 		url: 'https://www.amazon.in/Nicholas-Nickleby-Penguin-Classics-Charles/dp/0140435123/ref=sr_1_2?crid=1ENOO3CF3QNG1&keywords=nicholas+nickleby+by+charles+dickens&qid=1699341011&sprefix=Nicholas+Nickleby%2Caps%2C197&sr=8-2',
 		__v: 0,
+		price: 385,
 	},
 	{
 		author: {
@@ -406,6 +422,7 @@ export const booksData = [
 			'https://th.bing.com/th/id/OIP.WOgV2sUeO_lUGQ2BIQOW3AHaLX?pid=ImgDet&rs=1',
 		url: 'https://www.amazon.in/Little-Wordsworth-Classics-Charles-Dickens/dp/1853261823/ref=sr_1_2?crid=T0RX2PUQ5KT6&keywords=Little+Dorrit+by+charles+dickens&qid=1699342782&sprefix=little+dorrit+by+charles+dickens%2Caps%2C288&sr=8-2',
 		__v: 0,
+		price: 249,
 	},
 	{
 		author: {
@@ -435,6 +452,7 @@ export const booksData = [
 		cover: 'https://pictures.abebooks.com/isbn/9780451525277-us-300.jpg',
 		url: 'https://www.amazon.in/Adam-Penguin-Classics-George-Eliot/dp/0140436642/ref=sr_1_3?crid=1QI0Z7I3CLI6Y&keywords=Adam+Bede&qid=1699346071&sprefix=adam+bede+%2Caps%2C201&sr=8-3',
 		__v: 0,
+		price: 490,
 	},
 	{
 		author: {
@@ -464,6 +482,7 @@ export const booksData = [
 			'https://static01.nyt.com/images/2016/10/30/books/review/30LOWRY-CRITICSTAKE/30LOWRY-CRITICSTAKE-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale',
 		url: 'https://www.amazon.in/Flies-Penguin-Classics-Deluxe-editions/dp/0143129406/ref=sr_1_2?crid=1N119YBO0NS8K&keywords=Lord+of+the+Flies&qid=1699354803&sprefix=lord+of+the+flies%2Caps%2C220&sr=8-2',
 		__v: 0,
+		price: 570,
 	},
 	{
 		author: {
@@ -492,5 +511,6 @@ export const booksData = [
 		cover: 'https://covers.openlibrary.org/b/id/6937489-L.jpg',
 		url: 'https://www.amazon.in/Spire-William-Golding/dp/0571362338/ref=sr_1_2?crid=1HN0I2ZANZXQ1&keywords=The+Spire+book+by+william+golding&qid=1699357027&sprefix=the+spire+book+by+william+golding%2Caps%2C191&sr=8-2',
 		__v: 0,
+		price: 380,
 	},
 ];
