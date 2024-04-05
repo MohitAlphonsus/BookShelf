@@ -1,0 +1,58 @@
+.addtocart {
+	&__container {
+		margin-top: 4rem;
+		display: flex;
+		flex-direction: column;
+		align-items: start;
+		gap: 3rem;
+	}
+
+	&__button {
+		border: 1px solid rgb(91, 68, 145);
+		font: inherit;
+		font-size: 1.6rem;
+		text-transform: uppercase;
+		color: #333;
+		padding: 1rem 2rem;
+		border-radius: 3px;
+		cursor: pointer;
+
+		&:hover {
+			background-color: rgb(86, 62, 143);
+			color: #fff;
+			pointer-events: stroke;
+		}
+
+		&.disable {
+			filter: grayscale(100%);
+			background-color: #ccc;
+			pointer-events: none;
+		}
+	}
+}
+
+.quantity {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+
+	&__text {
+		font-size: 1.4rem;
+	}
+
+	&__buttons {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		font-size: 2rem;
+
+		button {
+			font-size: 1.6rem;
+			border: none;
+			border-radius: 50%;
+			height: 3rem;
+			width: 3rem;
+			cursor: pointer;
+		}
+	}
+}
