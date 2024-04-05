@@ -1,0 +1,39 @@
+.navbar {
+	margin: 0 auto;
+	padding: 2rem 5%;
+	color: #333;
+	display: flex;
+	align-self: center;
+	justify-content: space-between;
+
+	&__logo {
+		color: inherit;
+
+		&--icon {
+			font-size: 4rem;
+		}
+	}
+
+	&__links {
+		display: flex;
+		align-items: center;
+		gap: 2rem;
+	}
+
+	&__link {
+		&,
+		&__link:link,
+		&__link:visited {
+			color: inherit;
+			font-size: 1.6rem;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			font-weight: 700;
+			cursor: pointer;
+
+			.icon {
+				font-size: 3rem;
+			}
+		}
+	}
+}
