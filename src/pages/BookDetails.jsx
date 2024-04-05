@@ -1,6 +1,5 @@
-import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Rating } from '../components';
+import { Rating, AddToCart } from '../components';
 import { booksData } from '../../books.js';
 import './BookDetails.scss';
 
@@ -31,7 +30,7 @@ function BookDetails() {
 							<span key={genre}>{genre}</span>
 						))}
 					</div>
-					<div>buttons</div>
+					<AddToCart />
 				</div>
 			</div>
 		</div>
